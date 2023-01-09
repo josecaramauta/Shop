@@ -17,7 +17,7 @@ body {
 	justify-content: space-between;
 	align-items: center;
 	transition: 1s;
-	position:relative;animation:animateleft 3s}@keyframes animateleft{from{left:-300px;opacity:0} to{left:0;opacity:1};
+	position:relative;animation:animateleft 0.4s}@keyframes animateleft{from{left:-300px;opacity:0} to{left:0;opacity:1};
 
 
 }
